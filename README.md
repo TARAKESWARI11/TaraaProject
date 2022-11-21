@@ -12,9 +12,9 @@ This web based charity application has been developed for the accomplishment of 
 
 #Azure technologies used for this project
 
--Static web app
+#-Static web app
 
--Health Bot
+#-Health Bot
 
 #Screenshots
 
