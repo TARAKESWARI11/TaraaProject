@@ -6,7 +6,7 @@ This web based charity application has been developed for the accomplishment of 
 
 #Here is my project demo link:https://mango-ground-0d46e5e10.2.azurestaticapps.net
 
-#Here is my github Repositary Link:
+#Here is my github Repositary Link:https://github.com/TARAKESWARI11/TaraaProject.git
 
 #Here is my helath bot can be used as help bot for any queries and it's link:
 
