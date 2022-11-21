@@ -4,7 +4,7 @@ This web based charity application has been developed for the accomplishment of 
 
 #I have designed a website named save poor
 
-#Here is my project demo link:
+#Here is my project demo link:https://mango-ground-0d46e5e10.2.azurestaticapps.net
 
 #Here is my github Repositary Link:
 
